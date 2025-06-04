@@ -1,0 +1,28 @@
+{
+  "name": "epytodo",
+  "description": "To do list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sergio Santamaria, Raphael Poirier d'Ange, Eduardo Window",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPGEPromo2029/B-WEB-200-BAR-2-1-epytodo-raphael.poirier-d-ange-d-orsay.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPGEPromo2029/B-WEB-200-BAR-2-1-epytodo-raphael.poirier-d-ange-d-orsay/issues"
+  },
+  "homepage": "https://github.com/EpitechPGEPromo2029/B-WEB-200-BAR-2-1-epytodo-raphael.poirier-d-ange-d-orsay#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1"
+  }
+}
